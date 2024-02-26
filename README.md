@@ -11,8 +11,3 @@ desired changes.
 
 <li>Whom is the issue assigned</li>
 </ul>
-
-<h3>Few screenshots below to get the feel :camera: :</h3>
-
-<img src="https://github.com/MAZHARMIK/Self-made-Projects/blob/master/Issue-Tracker-in%20JS/issueTracker-1.jpg">
-<img src="https://github.com/MAZHARMIK/Self-made-Projects/blob/master/Issue-Tracker-in%20JS/issueTracker-2.jpg">
